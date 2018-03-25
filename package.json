@@ -1,0 +1,10 @@
+{
+  "name": "token",
+  "version": "0.0.1",
+  "dependencies": {
+    "chalk": "1.0.0"
+  },
+  "renovate": {
+    "npmToken": "abcdefghijklmnop"
+  }
+}
